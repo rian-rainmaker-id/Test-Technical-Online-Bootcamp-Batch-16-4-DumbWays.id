@@ -1,3 +1,5 @@
+//Program Menggambar suatu Pola
+
 #include <bits/stdc++.h>
 using namespace std;
 

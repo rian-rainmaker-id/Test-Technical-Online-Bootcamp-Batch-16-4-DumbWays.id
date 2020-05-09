@@ -1,3 +1,5 @@
+//Program Menghitung Jumlah Kata Pada Kalimat Berformat CamelCase
+
 #include <bits/stdc++.h> //Mencoba header ini yang katanya berisi standar library https://stackoverflow.com/questions/25311011/how-does-include-bits-stdc-h-work-in-c
 						 //Walaupun dengan <iostream> saja sudah cukup
 using namespace std;

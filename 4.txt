@@ -1,0 +1,2 @@
+Untuk jawaban no. 4 poin pertama:
+SELECT * FROM Film;
